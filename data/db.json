@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Welcome to the My Blog",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam, voluptate.",
+      "tags": ["Web Development", "Coding", "News"]
+    },
+    {
+      "id": 2,
+      "title": "Top 5 CSS Tips",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam, voluptate.",
+      "tags": ["CSS", "Web Development", "Coding"]
+    }
+  ]
+}
